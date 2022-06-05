@@ -31,7 +31,7 @@ sudo apt-get install -y nodejs
 
 sudo npm install -g yarn
 ```
-- Digite o comando YARN Install para instalar as dependências
+- Digite o comando yarn Install para instalar as dependências
 - Digite no terminal o seguinte comando
  `yarn dev` na pasta `API-FF-OURBike`
 

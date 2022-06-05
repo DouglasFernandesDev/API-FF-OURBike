@@ -7,6 +7,8 @@ os ciclistas, transformando a cidade em um local mais amigável para as pessoas 
 bikes, estimulando seu uso no dia a dia?
 
 
+[Projeto no FIGMA](https://www.figma.com/file/54FPEu4Utcr1SSyDfXWCDY/OURBIKE)
+
 # 🧠 Contexto API
 
 O desafio é implementar um app para conectar ciclistas com pontos de serviços, com urbanismo e vários benefícios:

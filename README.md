@@ -1,3 +1,5 @@
+![](https://i.imgur.com/ezak8N3.png)
+
 # 🚀 FF OURBike
 
 Bem-vindo(a). Projeto para o FF Hackathon!

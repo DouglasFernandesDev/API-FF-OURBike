@@ -1,7 +1,5 @@
 ![](https://i.imgur.com/ezak8N3.png)
 
-# 🚀 FF OURBike
-
 Bem-vindo(a). Projeto para o FF Hackathon!
 
 O objetivo deste desafio é criar um app que crie pontos de suporte, estacionamento e manutenção de bicicletas para

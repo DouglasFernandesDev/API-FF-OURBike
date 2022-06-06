@@ -18,7 +18,7 @@ bikes, estimulando seu uso no dia a dia?
 O desafio é implementar um app para conectar ciclistas com pontos de serviços, com urbanismo e vários benefícios:
 
 - [ ] Pontos de serviços
-- [ ] Grupos de ciclistas
+- [ ] Comunidade de ciclistas
 - [ ] Seguradora e Segurança
 - [ ] Conveniência
 - [ ] Recompensas

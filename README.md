@@ -7,19 +7,27 @@ os ciclistas, transformando a cidade em um local mais amigável para as pessoas 
 bikes, estimulando seu uso no dia a dia?
 
 
-[Projeto no FIGMA](https://www.figma.com/file/54FPEu4Utcr1SSyDfXWCDY/OURBIKE)
+[Projeto no FIGMA](https://www.figma.com/file/54FPEu4Utcr1SSyDfXWCDY/OURBIKE) <br/>
+[Landing Page](https://ffourbikes.netlify.app/) <br/>
+[Video](https://www.youtube.com/watch?v=8D8phLFXCEY) <br/>
+
+
 
 # 🧠 Contexto API
 
 O desafio é implementar um app para conectar ciclistas com pontos de serviços, com urbanismo e vários benefícios:
 
 - [ ] Pontos de serviços
+- [ ] Grupos de ciclistas
+- [ ] Seguradora e Segurança
 - [ ] Conveniência
 - [ ] Recompensas
 - [ ] Criar solicitações
 - [ ] Finalizar solicitação
 - [ ] Check in e check out no camping
 - [ ] Manutenção e equipamentos
+- [ ] Pacotes
+- [ ] Novidades com kit de produtos
 
 ## 📋 Instruções
 
